@@ -1,0 +1,3 @@
+{ "name": "@poc/kafka-toolkit", "version": "1.0.0", "main": "dist/index.js", "types": "dist/index.d.ts",
+  "scripts": { "build": "tsc -p ." },
+  "dependencies": { "@poc/contracts": "*", "kafkajs": "^2.2.4", "mongodb": "^6.8.0" } }
